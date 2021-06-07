@@ -1,0 +1,14 @@
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\b\ConsoleApp3\Debug\net5.0\ConsoleApp3.exe
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\b\ConsoleApp3\Debug\net5.0\ConsoleApp3.deps.json
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\b\ConsoleApp3\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\b\ConsoleApp3\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\b\ConsoleApp3\Debug\net5.0\ConsoleApp3.dll
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\b\ConsoleApp3\Debug\net5.0\ref\ConsoleApp3.dll
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\b\ConsoleApp3\Debug\net5.0\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\i\ConsoleApp3\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\i\ConsoleApp3\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\i\ConsoleApp3\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\i\ConsoleApp3\Debug\net5.0\ConsoleApp3.csproj.CopyComplete
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\i\ConsoleApp3\Debug\net5.0\ConsoleApp3.dll
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\i\ConsoleApp3\Debug\net5.0\ref\ConsoleApp3.dll
+C:\Users\findc\source\repos\ConsoleApp3\.vs\ConsoleApp3\v16\lut\0\i\ConsoleApp3\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
